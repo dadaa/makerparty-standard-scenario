@@ -10,7 +10,9 @@ This document is made by [gitfab](http://gitfab.org)
 
 ---
 #ムービーを作ろう
-- [popcorn maker](https://popcorn.webmaker.org/) を利用してムービーを作成します。
+Popcorn Maker を使ってオリジナルのムービーを作成しましょう。
+
+- [Popcorn Maker](https://popcorn.webmaker.org/) を利用します。
 - 素材は[素材集](/gitfab/makerparty-materials)をご利用ください。
 
 ##サンプル
@@ -28,9 +30,22 @@ This document is made by [gitfab](http://gitfab.org)
 [https://www.dropbox.com/sh/vdt6z1tivztsbcs/wVOXolk9AK/popcorn-manual-0718.pdf](https://www.dropbox.com/sh/vdt6z1tivztsbcs/wVOXolk9AK/popcorn-manual-0718.pdf)
 </center>
 ---
-#ジャケットを作ろう
+#紹介ページを作ろう
+さきほど作成したムービーを紹介するウェブページを作成します。
+
+- [thimble](https://thimble.webmaker.org/) を利用します。
+- 素材は[素材集](/gitfab/makerparty-materials)をご利用ください。
+
+##テンプレート
+以下からお好きなテンプレートを選んで紹介ページを作成しましょう。文言意外にも、背景や文字の色やフォント、サイズ、ページ要素のレイアウトなどもカスタマイズ可能です。
+
+<center>
+###サンプル１
+![sample-thumbnail.jpg](https://raw.github.com/dadaa/makerparty-standard-scenario/master/gitfab/resources/sample-thumbnail.jpg)[https://mozillawebmaker-jp.makes.org/thimble/6623](https://mozillawebmaker-jp.makes.org/thimble/6623)
+</center>
 ---
 #公開しよう
+
 ---
 #ブラウザでアクセスしてみよう
 ---
