@@ -47,7 +47,9 @@ Popcorn Maker を使ってオリジナルのムービーを作成しましょう
 #公開しよう
 ムービーと紹介ページを作成したら、ウェブに公開しましょう。thimble 公開ボタンを押した後に表示されるURLを、以下のサイトに入力してください。
 
-- これから
+- [https://ja.etherpad.mozilla.org/makerparty2013-sakuhin](https://ja.etherpad.mozilla.org/makerparty2013-sakuhin)
+
+　
 
 
 
