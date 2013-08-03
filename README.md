@@ -12,7 +12,7 @@ This document is made by [gitfab](http://gitfab.org)
 #ムービーを作ろう
 Popcorn Maker を使ってオリジナルのムービーを作成しましょう。
 
-- [Popcorn Maker](https://popcorn.webmaker.org/) を利用します。
+- [Popcorn Maker](https://popcorn.webmaker.org/) を開いてください。
 - 素材は[素材集](/gitfab/makerparty-materials)をご利用ください。
 
 ##サンプル
@@ -45,7 +45,19 @@ Popcorn Maker を使ってオリジナルのムービーを作成しましょう
 </center>
 ---
 #公開しよう
+ムービーと紹介ページを作成したら、ウェブに公開しましょう。thimble 公開ボタンを押した後に表示されるURLを、以下のサイトに入力してください。
+
+- これから
+
+
 
 ---
 #ブラウザでアクセスしてみよう
+みなさんの作品は、広くウェブ上で公開されます！
+
+さきほどの URL を覚えておいてください。自分のPCや携帯などからもアクセスでき、自宅に帰ってからや学校での閲覧も可能になります。友達、家族、知り合いの方々に、自分の作品を見てもらいましょう！
+
+おつかれさまでした！！
+
+
 ---
