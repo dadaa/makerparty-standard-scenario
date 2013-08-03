@@ -7,6 +7,10 @@ This document is made by [gitfab](http://gitfab.org)
 <center>
 ![sample-thumbnail.jpg](https://raw.github.com/dadaa/makerparty-standard-scenario/master/gitfab/resources/sample-thumbnail.jpg)[https://mozillawebmaker-jp.makes.org/thimble/6623](https://mozillawebmaker-jp.makes.org/thimble/6623)
 </center>
+---
+#その他の作品
+[http://tranquil-shelf-7327.herokuapp.com/](http://tranquil-shelf-7327.herokuapp.com/)
+
 
 ---
 #ムービーを作ろう
@@ -47,6 +51,7 @@ Popcorn Maker を使ってオリジナルのムービーを作成しましょう
 #公開しよう
 ムービーと紹介ページを作成したら、ウェブに公開しましょう。thimble 公開ボタンを押した後に表示されるURLを、以下のサイトに入力してください。
 
+- [http://tranquil-shelf-7327.herokuapp.com/](http://tranquil-shelf-7327.herokuapp.com/) created by Sota Yamashita
 - [https://ja.etherpad.mozilla.org/makerparty2013-sakuhin](https://ja.etherpad.mozilla.org/makerparty2013-sakuhin)
 
 　
