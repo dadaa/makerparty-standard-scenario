@@ -9,7 +9,7 @@ This document is made by [gitfab](http://gitfab.org)
 </center>
 ---
 #その他の作品
-[http://tranquil-shelf-7327.herokuapp.com/](http://tranquil-shelf-7327.herokuapp.com/)
+[http://makerparty-gallery.mozillafactory.org](http://makerparty-gallery.mozillafactory.org/)
 
 
 ---
